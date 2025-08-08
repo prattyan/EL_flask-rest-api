@@ -27,7 +27,7 @@ This is a basic RESTful API built with **Flask** that allows you to manage user 
 
 ```bash
 git clone https://github.com/prattyan/EL_flask-rest-api.git
-cd user-api-flask
+cd EL_flask-rest-api
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
